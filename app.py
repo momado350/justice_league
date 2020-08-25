@@ -10,3 +10,10 @@ justice_league_members = [
     {"superhero": "Superman", "real_name": "Clark Kent/Kal-El"},
     {"superhero": "Wonder Woman", "real_name": "Princess Diana"}
 ]
+
+#################################################
+# Flask Setup
+#################################################
+app = Flask(__name__)
+
+
